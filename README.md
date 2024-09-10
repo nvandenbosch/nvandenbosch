@@ -6,7 +6,7 @@
 
 - 🎓 I am currently pursuing a Bachelor's Degree in Computer Engineering at Taylor University.
 
-- 🌱 I know C, and I have some background in Python and Arduino code as well. I am planning to learn C++ soon.
+- 🌱 I know C/C++, and I have some background in Python and Arduino code as well.
 
 - 🥁 When I'm not coding, I enjoy playing drums and bass, reading sci-fi, or building Lego.
 
